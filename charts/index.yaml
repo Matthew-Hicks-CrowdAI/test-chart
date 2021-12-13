@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  config-map:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-12-13T11:29:15.914980882-06:00"
+    description: A Helm chart for Kubernetes
+    digest: 8344a56c93b00deaffd56fbd22020ae6a10290a711848a8af4a2e0b7edf6175d
+    name: config-map
+    type: application
+    urls:
+    - config-map-0.2.0.tgz
+    version: 0.2.0
+generated: "2021-12-13T11:29:15.914811684-06:00"
